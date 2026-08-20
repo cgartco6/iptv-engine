@@ -1,0 +1,7 @@
+name: parser_engine
+description: High-speed Dart M3U, XMLTV EPG, and String Normalization Engine.
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  http: ^1.2.2
